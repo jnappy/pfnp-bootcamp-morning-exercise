@@ -1,4 +1,21 @@
 
+#left-div{
+	height:100px;
+	width: 49%;
+	background-color: black;
+	border: 1px solid gray;
+	display: inline-block;
+}
+
+#right-div{
+height:100px;
+width: 49%;
+background-color: gray;
+border: 1px solid black;
+display: inline-block; 
+
+}
+
 /*
 
 CSS syntax reminder: 
