@@ -1,0 +1,32 @@
+#left-div{
+	height: 100px;	
+	width:49%;
+	background-color:black;
+	border:solid grey;
+	display:inline;	
+	float:left;
+}
+
+#right-div{
+	height: 100px;	
+	width:49%;
+	background-color:grey;
+	border: solid black;
+	display:inline;
+	float:right;
+}
+
+/*
+
+CSS syntax reminder: 
+
+selector {
+	property: value;
+}
+
+second-selector {
+	property: value;
+}
+
+
+*/
