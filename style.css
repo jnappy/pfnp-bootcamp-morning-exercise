@@ -13,3 +13,22 @@ second-selector {
 
 
 */
+
+#left-div {
+	height: 100px;
+	width: 49%;
+	color: black;
+	border: 1px solid black;
+	display: inline-block;	
+}
+
+#right-div {
+	height: 100px;
+	width: 49%;
+	color: black;
+	border: 1px solid black;
+	color: black;
+	display: inline-block;
+
+}
+
