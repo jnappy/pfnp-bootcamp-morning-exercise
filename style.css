@@ -1,3 +1,18 @@
+#left-div {
+	height: 100px;
+	width: 49%;
+	background-color: black;
+	display: inline-block;
+}
+
+#right-div {
+	height: 100px;
+	width: 49%;
+	background-color: gray;
+	border: 1px black;
+	display: inline-block;
+}
+
 
 /*
 
